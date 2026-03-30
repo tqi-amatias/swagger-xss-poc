@@ -1,7 +1,7 @@
 {
-    "url": "https://raw.githubusercontent.com/saldanha00/swagger-xss-poc/main/brazilian.yaml",
+    "url": "https://raw.githubusercontent.com/tqi-amatias/swagger-xss-poc/main/brazilian.yaml",
     "urls": [{
-        "url": "https://raw.githubusercontent.com/saldanha00/swagger-xss-poc/main/brazilian.yaml",
+        "url": "https://raw.githubusercontent.com/tqi-amatias/swagger-xss-poc/main/brazilian.yaml",
         "name": "Foo"
     }]
 }
